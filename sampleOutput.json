@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Millions of Mormon crickets are blanketing a Nevada town | CBC Radio",
+      "description": "\"It is basically like that movie [The] Birds, but instead of birds, it's crickets,\" said Charles Carmichael, owner of Battle Born Pest Control in the Nevada city of Elko.",
+      "url": "http://www.cbc.ca/radio/asithappens/mormon-crickets-elko-nevada-1.6881563",
+      "urlToImage": "https://i.cbc.ca/1.6881589.1687203301!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/mormon-crickets-nevada-01.jpeg",
+      "publishedAt": "2023-06-20T16:37:22.3915277Z",
+      "content": "Charles Carmichael tries not to answer work calls on Sundays. But residents of Elko, Nev., have desperately needed his services, as lawns, roads and homes are covered in millions of creepy, crawly bu… [+4111 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Sonia Twigg",
+      "title": "England vs Australia LIVE: Cricket scorecard and Ashes Test updates as play resumes on day five",
+      "description": "Australia are chasing 281 to win the first Ashes Test, while England require seven wickets on day five for victory",
+      "url": "http://www.independent.co.uk/sport/cricket/ashes-score-england-australia-cricket-live-b2360692.html",
+      "urlToImage": "https://static.independent.co.uk/2023/06/20/14/SEI160991128.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-06-20T13:50:40Z",
+      "content": "The first Ashes Test match between England and Australia is left on a knife edge after four days of play - but the decisive final day was delayed after rain washed out the morning session at Edgbasto… [+4665 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Andrew McMurtry",
+      "title": "Last thing cricket world wants to see",
+      "description": "<p>Welcome to news.com.au&rsquo;s live coverage of the fifth day of the first Ashes Test.</p>",
+      "url": "https://www.news.com.au/sport/cricket/ashes-first-test-day-five-live/news-story/a0b4a1e0cbf28757decf832252dce7c6",
+      "urlToImage": "https://content.api.news/v3/images/bin/55f7b22ef83570e0e0714898fff05bb9",
+      "publishedAt": "2023-06-20T08:23:00Z",
+      "content": "Welcome to news.com.au’s live coverage of the fifth day of the first Ashes Test.\r\nThe match is in the balance heading into the final day with Australia needing 174 runs to win and England needing sev… [+1671 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
